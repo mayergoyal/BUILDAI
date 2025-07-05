@@ -1,0 +1,10 @@
+{
+  "mcp_servers": [
+    {
+      "name": "EduChain MCP Server",
+      "url": "http://localhost:8000",
+      "tools": ["generate_mcqs"],
+      "resources": ["lesson_plan"]
+    }
+  ]
+}
